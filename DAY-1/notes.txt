@@ -1,0 +1,9 @@
+Day 1 Learnings:
+
+- Learned how to print output using print()
+- Understood variables and data types (int, float, string, bool)
+- Used input() to take user input
+- Practiced typecasting using int() and float()
+- Used arithmetic and comparison operators
+- Learned escape sequences (\n, \t, \", \')
+- Created small programs like calculator, bill generator, and square-cube
